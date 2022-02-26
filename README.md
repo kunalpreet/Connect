@@ -107,7 +107,7 @@ Five users were created:
 **Examples**:
 -  All of the users were created using the features from **objective 01.**
 - When logged in, all of the users have their information displayed on the left column using the features from **objective 02** and **objective 03**.
-- TestUser3 and TestUser4 both have received a friend request from TestUser5, sent through the friend request button on the people list, and displayed on their friend request list using features from **objective 04** and **objective 05**.
-- TestUser5 and TestUser2 are friends, as well as TestUser2 and TestUser3, using features from **objective 06**. You can also see that TestUser5 and TestUser3 are displayed under TestUser2's friends list, using features from **objective 07**.
-- TestUser4 and TestUser3 have created posts which are displayed on the messages page, using features from **objective 08** and **objective 09**.
-- TestUser3, TestUser2, and TestUser 5 have all liked TestUser3's post. TestUser5 has also liked TestUser4's post. This used features from **objective 10**.
+- Test3 and Test4 both have received a friend request from Test5, sent through the friend request button on the people list, and displayed on their friend request list using features from **objective 04** and **objective 05**.
+- Test5 and Test2 are friends, as well as Test2 and Test3, using features from **objective 06**. You can also see that Test5 and Test3 are displayed under Test2's friends list, using features from **objective 07**.
+- Test4 and Test3 have created posts which are displayed on the messages page, using features from **objective 08** and **objective 09**.
+- Test3, Test2, and TestUser 5 have all liked Test3's post. Test5 has also liked Test4's post. This used features from **objective 10**.
